@@ -1,5 +1,8 @@
 # pk-about
 
+![seaking love logo](https://raw.githubusercontent.com/SEAKING-LOVE/pk-assets/master/pokemon/misc/seaking_love_logo.png)
+
+
 [Pia](https://github.com/misspia/)
 
 [Jason](https://github.com/iFallUpHill)
