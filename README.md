@@ -2,9 +2,10 @@
 
 *A repo dedicated to explaining the pk-projects.*
 
-![Seaking Love Logo](https://raw.githubusercontent.com/SEAKING-LOVE/pk-assets/master/pokemon/misc/seaking_love_logo.png)
-
 **By**: [Pia](https://github.com/misspia/) and [Jason](https://github.com/iFallUpHill)
+
+![Seaking Love Logo](https://i.imgur.com/ZYA3NYo.png)
+Huge thank you to [/u/vojelly](https://www.reddit.com/user/vojelly) for this amazing Seaking artwork!
 
 ## Table of Contents
 
